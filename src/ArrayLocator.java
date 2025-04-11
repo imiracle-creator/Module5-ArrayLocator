@@ -1,3 +1,5 @@
+//Isaiah Miracle Module 5 - ArrayLocator 04/13/2025
+
 public class ArrayLocator {
 
     // Locate the largest element in a double 2D array
